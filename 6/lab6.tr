@@ -83,6 +83,12 @@ U sub min = U sub з - A
 .ce 0
 .
 .
+.\"PS
+.LQ fig:sch
+.FG sch.eps fig:sch "Схема установки."
+.\"PE
+.
+.
 .PP
 .ce 100
 .ft B
